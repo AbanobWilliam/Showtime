@@ -1,0 +1,1293 @@
+@media only screen and (max-width : 1200px) {
+    /*===================
+        Start Home Page
+    =====================*/
+    @keyframes linetopmove{
+        25%{
+            top:130px;
+            opacity: 1;
+        }
+        50%{
+            top:130px;
+            opacity: 1;
+        }
+        70%{
+            top:130px;
+            opacity: 1;
+        }
+        100%{
+            top:100px;
+            opacity: 0;
+        }
+    }
+    @-webkit-keyframes linetopmove{
+        25%{
+            top:130px;
+            opacity: 1;
+        }
+        50%{
+            top:130px;
+            opacity: 1;
+        }
+        70%{
+            top:130px;
+            opacity: 1;
+        }
+        100%{
+            top:100px;
+            opacity: 0;
+        }
+    }
+    @-moz-keyframes linetopmove{
+        25%{
+            top:130px;
+            opacity: 1;
+        }
+        50%{
+            top:130px;
+            opacity: 1;
+        }
+        70%{
+            top:130px;
+            opacity: 1;
+        }
+        100%{
+            top:100px;
+            opacity: 0;
+        }
+    }
+    @-o-keyframes linetopmove{
+        25%{
+            top:130px;
+            opacity: 1;
+        }
+        50%{
+            top:130px;
+            opacity: 1;
+        }
+        70%{
+            top:130px;
+            opacity: 1;
+        }
+        100%{
+            top:100px;
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes linetopmove{
+        25%{
+            top:130px;
+            opacity: 1;
+        }
+        50%{
+            top:130px;
+            opacity: 1;
+        }
+        70%{
+            top:130px;
+            opacity: 1;
+        }
+        100%{
+            top:100px;
+            opacity: 0;
+        }
+    }
+    section.main-carousel .carousel-inner .item.item-one div.carousel-caption span.top-line{
+        top: 100px !important;
+        left: calc(50% - 225px) !important;
+    }
+    @keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-webkit-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-moz-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    section.main-carousel .carousel-inner .item.item-one div.carousel-caption h2{
+        top: 150px !important;
+    }
+    @keyframes linebottommove{
+        25%{
+            top:220px;
+            opacity: 1;
+        }
+        50%{
+            top:220px;
+            opacity: 1;
+        }
+        75%{
+            top:220px;
+            opacity: 1;
+        }
+        100%{
+            top:250px;
+            opacity: 0;
+        }
+    }
+    @-webkit-keyframes linebottommove{
+        25%{
+            top:220px;
+            opacity: 1;
+        }
+        50%{
+            top:220px;
+            opacity: 1;
+        }
+        75%{
+            top:220px;
+            opacity: 1;
+        }
+        100%{
+            top:250px;
+            opacity: 0;
+        }
+    }
+    @-moz-keyframes linebottommove{
+        25%{
+            top:220px;
+            opacity: 1;
+        }
+        50%{
+            top:220px;
+            opacity: 1;
+        }
+        75%{
+            top:220px;
+            opacity: 1;
+        }
+        100%{
+            top:250px;
+            opacity: 0;
+        }
+    }
+    @-o-keyframes linebottommove{
+        25%{
+            top:220px;
+            opacity: 1;
+        }
+        50%{
+            top:220px;
+            opacity: 1;
+        }
+        75%{
+            top:220px;
+            opacity: 1;
+        }
+        100%{
+            top:250px;
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes linebottommove{
+        25%{
+            top:220px;
+            opacity: 1;
+        }
+        50%{
+            top:220px;
+            opacity: 1;
+        }
+        75%{
+            top:220px;
+            opacity: 1;
+        }
+        100%{
+            top:250px;
+            opacity: 0;
+        }
+    }
+    section.main-carousel .carousel-inner .item.item-one div.carousel-caption span.bottom-line{
+        top: 250px !important;
+        left: calc(50% - 225px) !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information{
+        padding: 20px 0px !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information p,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information p,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information p{
+        margin: 20px 0px !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information p span,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information p span,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information p span{
+        font-size: 14px !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information a,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information a,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information a{
+        margin-top: 30px !important;
+    }
+    /*===================
+        End Home Page
+    =====================*/
+    /*===================
+        Start Shop Page
+    =====================*/
+    section.shop div.shop-content div.shop-page nav ul li a{
+        margin: 0px 1px !important;
+    }
+    section.shop div.shop-aside div.search-buttom{
+        padding: 10px 0px !important;
+    }
+    /*===================
+        End Shop Page
+    =====================*/
+    /*===================
+        Start Blog Page
+    =====================*/
+    div.blog-content div.blog-content-items div.blog-content-item div.blog-content-info ul{
+        padding: 10px 13px !important;
+    }
+    /*===================
+        End Blog Page
+    =====================*/
+    /*===================
+        Start Login Page
+    =====================*/
+    section.login-page div.login-content div.social-login button.facebook,
+    section.login-page div.login-content div.social-login button.twitter,
+    section.login-page div.login-content div.social-login button.google-plus,
+    section.login-page div.login-content div.social-login button.instagram,
+    section.login-page div.register-content div.social-login button.facebook,
+    section.login-page div.register-content div.social-login button.twitter,
+    section.login-page div.register-content div.social-login button.google-plus,
+    section.login-page div.register-content div.social-login button.instagram{
+        font-size: 14px !important;
+    }
+    /*===================
+        End Login Page
+    =====================*/
+}
+
+@media only screen and (max-width : 991px) {
+    /*===================
+        Start Home Page
+    =====================*/
+    div.header-top div.header-top-left ul li,
+    div.header-top div.header-top-center ul li,
+    div.header-top div.header-top-right ul li{
+        padding: 0px 4px !important;
+    }
+    div.header-top div.header-top-left ul li a span,
+    div.header-top div.header-top-center ul li a span,
+    div.header-top div.header-top-right ul li a span{
+        display: none !important;
+    }
+    div#loginandregister h3:before, div#language h3:before, div#via h3:before, div#cart-items h3:before,div#favorites h3:before{
+        left: -100px !important;
+    }
+    @keyframes linetopmove{
+        25%{
+            top:100px;
+            opacity: 1;
+        }
+        50%{
+            top:100px;
+            opacity: 1;
+        }
+        70%{
+            top:100px;
+            opacity: 1;
+        }
+        100%{
+            top:60px;
+            opacity: 0;
+        }
+    }
+    @-webkit-keyframes linetopmove{
+        25%{
+            top:100px;
+            opacity: 1;
+        }
+        50%{
+            top:100px;
+            opacity: 1;
+        }
+        70%{
+            top:100px;
+            opacity: 1;
+        }
+        100%{
+            top:60px;
+            opacity: 0;
+        }
+    }
+    @-moz-keyframes linetopmove{
+        25%{
+            top:100px;
+            opacity: 1;
+        }
+        50%{
+            top:100px;
+            opacity: 1;
+        }
+        70%{
+            top:100px;
+            opacity: 1;
+        }
+        100%{
+            top:60px;
+            opacity: 0;
+        }
+    }
+    @-o-keyframes linetopmove{
+        25%{
+            top:100px;
+            opacity: 1;
+        }
+        50%{
+            top:100px;
+            opacity: 1;
+        }
+        70%{
+            top:100px;
+            opacity: 1;
+        }
+        100%{
+            top:60px;
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes linetopmove{
+        25%{
+            top:100px;
+            opacity: 1;
+        }
+        50%{
+            top:100px;
+            opacity: 1;
+        }
+        70%{
+            top:100px;
+            opacity: 1;
+        }
+        100%{
+            top:60px;
+            opacity: 0;
+        }
+    }
+    section.main-carousel .carousel-inner .item.item-one div.carousel-caption span.top-line{
+        top: 80px !important;
+        left: calc(50% - 225px) !important;
+    }
+    @keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-webkit-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-moz-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-o-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes hmove{
+        25%{
+            opacity: 1;
+        }
+        50%{
+            opacity: 1;
+        }
+        75%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+    }
+    section.main-carousel .carousel-inner .item.item-one div.carousel-caption h2{
+        top: 120px !important;
+        left: calc(50% - 205px) !important;
+        font-size: 40px !important;
+    }
+    section.main-carousel .carousel-inner .item.item-one div.carousel-caption span.bottom-line{
+        top: 215px !important;
+        left: calc(50% - 225px) !important;
+    }
+    @keyframes linebottommove{
+        25%{
+            top:180px;
+            opacity: 1;
+        }
+        50%{
+            top:180px;
+            opacity: 1;
+        }
+        75%{
+            top:180px;
+            opacity: 1;
+        }
+        100%{
+            top:220px;
+            opacity: 0;
+        }
+    }
+    @-webkit-keyframes linebottommove{
+        25%{
+            top:180px;
+            opacity: 1;
+        }
+        50%{
+            top:180px;
+            opacity: 1;
+        }
+        75%{
+            top:180px;
+            opacity: 1;
+        }
+        100%{
+            top:220px;
+            opacity: 0;
+        }
+    }
+    @-moz-keyframes linebottommove{
+        25%{
+            top:180px;
+            opacity: 1;
+        }
+        50%{
+            top:180px;
+            opacity: 1;
+        }
+        75%{
+            top:180px;
+            opacity: 1;
+        }
+        100%{
+            top:220px;
+            opacity: 0;
+        }
+    }
+    @-o-keyframes linebottommove{
+        25%{
+            top:180px;
+            opacity: 1;
+        }
+        50%{
+            top:180px;
+            opacity: 1;
+        }
+        75%{
+            top:180px;
+            opacity: 1;
+        }
+        100%{
+            top:220px;
+            opacity: 0;
+        }
+    }
+    @-ms-keyframes linebottommove{
+        25%{
+            top:180px;
+            opacity: 1;
+        }
+        50%{
+            top:180px;
+            opacity: 1;
+        }
+        75%{
+            top:180px;
+            opacity: 1;
+        }
+        100%{
+            top:220px;
+            opacity: 0;
+        }
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information{
+        padding: 20px 0px !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information span.carousel-price,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information span.carousel-price,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information span.carousel-price{
+        margin-top: 20px !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-information a,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-information a,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-information a{
+        width: 40% !important;
+    }
+    section.main-carousel .carousel-inner .item.item-two div.carousel-caption div.carousel-image img,
+    section.main-carousel .carousel-inner .item.item-three div.carousel-caption div.carousel-image img,
+    section.main-carousel .carousel-inner .item.item-four div.carousel-caption div.carousel-image img{
+        width: 40% !important;
+    }
+    div.featured-bestseller div.bestseller{
+        margin-top: 60px !important;
+    }
+    div.featured-bestseller div.bestseller h2{
+        overflow: hidden !important;
+    }
+    div.featured-bestseller div.bestseller h2:after{
+        display: none !important;
+    }
+    section.page-content div.featured-bestseller div.bestseller h2 a.left span,
+    section.page-content div.featured-bestseller div.bestseller h2 a.right span{
+        background: #333B43 !important;
+    }
+    section.page-content div.testimonials-new div.new h2:after{
+        display: none !important;
+    }
+    section.page-content div.testimonials-new div.new h2 a.left span,
+    section.page-content div.testimonials-new div.new h2 a.right span{
+        background: #333B43 !important;
+    }
+    section.page-content div.testimonials-new div.testimonials-products{
+        margin-top: 60px !important;
+    }
+    div.last-blogs div.last-blogs-items div.last-blogs-item a.last-blogs-image img{
+        width: 100% !important;
+    }
+    section.page-content div.last-blogs h2:after{
+        display: none !important;
+    }
+    section.page-content div.last-blogs h2 a.left span,
+    section.page-content div.last-blogs h2 a.right span{
+        background: #333B43 !important;
+    }
+    section.page-content div.terms{
+        margin-bottom: 30px !important;
+    }
+    section.page-content div.terms div.term{
+        margin-bottom: 30px !important;
+    }
+    footer div.footer-contact,
+    footer div.opening-time{
+        margin-top: 30px !important;
+    }
+    /*===================
+        End Home Page
+    =====================*/
+    /*===================
+        Start Shop Page
+    =====================*/
+    section.shop div.shop-content{
+        margin-top: 60px !important;
+    }
+    section.shop div.shop-content h2:after{
+        display: none !important;
+    }
+    /*===================
+        End Shop Page
+    =====================*/
+    /*=========================
+        Start Blog Page
+    =========================*/
+    section.blog-one div.blog-content{
+        margin: 30px 0px !important;
+    }
+    section.blog-one div.blog-content h2:after{
+        display: none !important;
+    }
+    /*=========================
+        End Blog Page
+    =========================*/
+    /*============================
+        Start Product Details Page
+    ============================*/
+    section.product-content div.product h2:after{
+        display: none !important;
+    }
+    /*============================
+        End Product Details Page
+    ============================*/
+    /*=========================
+        Start Blog derails Page
+    =========================*/
+    section.blog-details-content h2:after{
+        display: none !important;
+    }
+    section.blog-details-content div.related-blogs h2:after{
+        display: none !important;
+    }
+    /*=========================
+        End Blog derails Page
+    =========================*/
+    /*==========================
+        Start Contact Us One Page
+    ==========================*/
+    section.contact-page-one div.map-one h2:after,
+    section.contact-page-one div.contact-form-one h2:after,
+    section.contact-page-one div.contact-info-one h2:after{
+        left: -110px !important;
+    }
+    section.contact-page-one div.map-one h2:after{
+        display: none !important;
+    }
+    section.contact-page-one div.contact-form-one h2:after{
+        display: none !important;
+    }
+    section.contact-page-one div.contact-info-one h2:after{
+        display: none !important;
+    }
+    /*==========================
+        End Contact Us One Page
+    ==========================*/
+    /*==========================
+        Start cart Page
+    ==========================*/
+    section.cart h2:after{
+        display: none !important;
+    }
+    section.cart div.cart-forms div.coupon form{
+        margin-top: 30px !important;
+    }
+    /*==========================
+        End cart Page
+    ==========================*/
+    /*===================
+        Start Login Page
+    =====================*/
+    section.login-page div.login-content h2:after,
+    section.login-page div.register-content h2:after{
+        display: none !important;
+    }
+    section.login-page div.login-content div.social-login button.facebook,
+    section.login-page div.login-content div.social-login button.twitter,
+    section.login-page div.login-content div.social-login button.google-plus,
+    section.login-page div.login-content div.social-login button.instagram,
+    section.login-page div.register-content div.social-login button.facebook,
+    section.login-page div.register-content div.social-login button.twitter,
+    section.login-page div.register-content div.social-login button.google-plus,
+    section.login-page div.register-content div.social-login button.instagram{
+        font-size: 16px !important;
+        margin-bottom: 10px !important;
+    }
+    /*===================
+        End Login Page
+    =====================*/
+    /*==========================
+        Strart Checkout Page
+    ==========================*/
+    section.checkout-page h2:after{
+        display: none !important;
+    }
+    /*==========================
+        End Checkout Page
+    ==========================*/
+}
+
+@media only screen and (max-width : 767px) {
+    /*===================
+        Start Home Page
+    =====================*/
+    div#language div.language-links a,
+    div#via div.via-links a{
+        margin: 5px 0px 5px 0px !important;
+    }
+    nav.navbar-inverse a.navbar-brand{
+        margin: 22px 0px 0px 20px !important;
+    }
+    .navbar-inverse .navbar-toggle{
+        margin: 33px 10px !important;
+        border-radius: 0px !important;
+    }
+    .navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover{
+        background: #fff !important;
+    }
+    nav.navbar-inverse .navbar-right li.main-li ul{
+        position: static !important;
+        width: 97% !important;
+        margin: 0 auto !important;
+        display: none !important;
+    }
+    nav.navbar-inverse .navbar-right li.main-li:hover ul{
+        display: block !important;
+    }
+    section.offer div.offer-info{
+        overflow: hidden !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.col-xs-12{
+        width: 50% !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item{
+        overflow: visible !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item div.item-img img{
+        margin: 0 auto !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item a.add-to-fav,
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item a.add-to-cart{
+        position: static !important;
+        width: 40px !important;
+        height: 40px !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item a.add-to-fav{
+        float: left !important;
+        margin: 10px 0px 0px 10px !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item a.add-to-cart{
+        float: right !important;
+        margin: 10px 10px 0px 0px !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item div.item-info{
+        position: static !important;
+        padding: 10px !important;
+        clear: both !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.bestseller-item div.item-info span{
+        position: absolute !important;
+        top: 10px !important;
+        right: 10px !important;
+        margin: 0px !important;
+    }
+    div.testimonials-new div.new div.new-items div.col-xs-12{
+        width: 50% !important;
+    }
+    div.testimonials-new div.new div.new-items div.new-item{
+        margin-bottom: 10px !important;
+        overflow: visible !important;
+    }
+    div.testimonials-new div.new div.new-items div.new-item a.add-to-fav{
+        position: static !important;
+        float: left !important;
+        margin: 10px 0px 0px 10px !important;
+    }
+    div.testimonials-new div.new div.new-items div.new-item a.add-to-cart{
+        position: static !important;
+        margin: 10px 10px 0px 0px !important;
+        float: right !important;
+    }
+    div.testimonials-new div.new div.new-items div.new-item div.item-info{
+        padding: 0px !important;
+        position: static !important;
+        clear: both !important;
+        padding: 5px 10px !important;
+    }
+    div.testimonials-new div.new div.new-items div.new-item div.item-info span{
+        position: absolute !important;
+        top: 10px !important;
+        right: 10px !important;
+        margin: 0px !important;
+    }
+    footer div.footer-bottom div.designer{
+        text-align: center;
+        font-size: 14px;
+    }
+    footer div.footer-bottom div.social{
+        text-align: center;
+    }
+    footer div.footer-bottom div.social ul{
+        display: inline-block;
+        margin-top: 10px;
+    }
+    /*===================
+        End Home Page
+    =====================*/
+    /*===================
+        Start Shop Page
+    =====================*/
+    section.shop div.shop-content div.shop-page div.sortby,
+    section.shop div.shop-content div.shop-page div.show{
+        margin-bottom: 10px;
+    }
+    section.shop div.shop-content div.shop-page nav ul{
+        float: left !important;
+    }
+    section.shop div.shop-content div.shop-page nav ul li a{
+        margin: 0px 5px !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item{
+        overflow: visible !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item a.add-to-fav,
+    section.shop div.shop-content div.shop-items div.shop-item a.add-to-cart{
+        position: static !important;
+        width: 40px !important;
+        height: 40px !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item a.add-to-fav{
+        float: left !important;
+        margin: 10px 0px 0px 10px !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item a.add-to-cart{
+        float: right !important;
+        margin: 10px 10px 0px 0px !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item div.item-info{
+        position: static !important;
+        padding: 10px !important;
+        clear: both !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item div.item-info span{
+        position: absolute !important;
+        top: 10px !important;
+        right: 10px !important;
+        margin: 0px !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item div.item-info div.product-rate{
+        margin-bottom: 20px !important;
+    }
+    /*===================
+        End Shop Page
+    =====================*/
+    /*===================
+        Start Blog Page
+    =====================*/
+    div.blog-content div.blog-content-items div.col-xs-6{
+        width: 100% !important;
+    }
+    div.blog-content div.blog-content-items div.blog-content-item a.blog-content-image img{
+        width: 100% !important;
+    }
+    /*===================
+        End Blog Page
+    =====================*/
+    /*============================
+        Start Product Details Page
+    ============================*/
+    section.product-content div.product div.information-reviews div.tab-content div.review{
+        padding: 60px 30px 30px 30px !important;
+    }
+    section.product-content div.product div.information-reviews div.tab-content span.review-user{
+        position: static !important;
+        margin-top: 100px !important;
+    }
+    section.product-content div.product div.information-reviews div.tab-content span.review-date{
+        position: static !important;
+        float: right !important;
+    }
+    section.product-content div.product div.information-reviews div.tab-content p.review-p{
+        margin-top: 20px !important;
+        padding: 0px !important;
+    }
+    section.product-content div.product div.related-products div.shop-item{
+        overflow: visible !important;
+    }
+    section.product-content div.product div.related-products div.shop-item div.item-img img{
+        margin: 0 auto !important;
+    }
+    section.product-content div.product div.related-products div.shop-item a.add-to-fav,
+    section.product-content div.product div.related-products div.shop-item a.add-to-cart{
+        position: static !important;
+        width: 40px !important;
+        height: 40px !important;
+    }
+    section.product-content div.product div.related-products div.shop-item a.add-to-fav{
+        float: left !important;
+        margin: 10px 0px 0px 10px !important;
+    }
+    section.product-content div.product div.related-products div.shop-item a.add-to-cart{
+        float: right !important;
+        margin: 10px 10px 0px 0px !important;
+    }
+    section.product-content div.product div.related-products div.shop-item div.item-info{
+        position: static !important;
+        padding: 10px !important;
+        clear: both !important;
+    }
+    section.product-content div.product div.related-products div.shop-item div.item-info span{
+        position: absolute !important;
+        top: 10px !important;
+        right: 10px !important;
+        margin: 0px !important;
+    }
+    section.product-content div.product div.related-products div.shop-item div.item-info div.product-rate{
+        overflow: hidden !important;
+    }
+    /*============================
+        End Product Details Page
+    ============================*/
+    /*==========================
+        Start cart Page
+    ==========================*/
+    section.cart table thead{
+        font-size: 14px !important;
+    }
+    /*==========================
+        End cart Page
+    ==========================*/
+}
+
+@media only screen and (max-width : 480px) {
+    /*===================
+        Start Home Page
+    =====================*/
+    div#language div.language-links div.col-xs-4, div#via div.via-links div.col-xs-4{
+        width: 100% !important;
+    }
+    div#language div.language-links a, div#via div.via-links a{
+        width: 100% !important;
+    }
+    div#cart-items div.cart-items-grid div.col-xs-6, div#favorites div.fav-items-grid div.col-xs-6{
+        width: 100% !important;
+    }
+    div.featured-bestseller div.bestseller div.bestseller-items div.col-xs-12{
+        width: 100% !important;
+    }
+    div.testimonials-new div.new div.new-items div.col-xs-12{
+        width: 100% !important;
+    }
+    div.last-blogs h2:after{
+        left: -160px !important;
+    }
+    div.last-blogs div.last-blogs-items div.last-blogs-item div.last-blogs-info ul li{
+        padding-right: 9px !important;
+    }
+    /*===================
+        End Home Page
+    =====================*/
+    /*===================
+        Start Shop Page
+    =====================*/
+    section.shop div.shop-content div.shop-page div.col-xs-6{
+        width: 100% !important;
+    }
+    section.shop div.shop-content div.shop-page nav ul li a{
+        margin: 0px 2px !important;
+    }
+    section.shop div.shop-content div.shop-items div.col-xs-6{
+        width: 100% !important;
+    }
+    section.shop div.shop-content div.shop-items div.shop-item div.item-info{
+        width: 100% !important;
+    }
+    /*===================
+        End Shop Page
+    =====================*/
+    /*============================
+        Start Product Details Page
+    ============================*/
+    section.product-content div.product div.product-details div.product-options div.product-options-select{
+        width: 100% !important;
+    }
+    section.product-content div.product div.product-details div.product-options div.product-options-choose{
+        width: 100% !important;
+        margin: 30px 0px !important;
+    }
+    section.product-content div.product div.product-details div.product-options div.product-options-choose div.cart-fav{
+        width: 49% !important;
+    }
+    section.product-content div.product div.product-details div.product-options div.product-options-choose div.product-counter{
+        width: 49% !important;
+    }
+    section.product-content div.product div.information-reviews div.tab-content span.review-user{
+        display: block !important;
+        margin-top: 0px !important;
+        text-align: center !important;
+    }
+    section.product-content div.product div.information-reviews div.tab-content span.review-date{
+        display: block !important;
+        width: 100% !important;
+        text-align: center !important;
+        margin-top: 30px !important;
+        margin-bottom: 30px !important;
+    }
+    section.product-content div.product div.related-products div.col-xs-6{
+        width: 100% !important;
+    }
+    /*============================
+        End Product Details Page
+    ============================*/
+    /*=========================
+        Start Blog derails Page
+    =========================*/
+    section.blog-details-content div.blog-details-info div.date{
+        position: static !important;
+        width: 100% !important;
+        height: 33px !important;
+        margin-top: 20px !important;
+        text-align: center !important;
+    }
+    section.blog-details-content div.blog-details-info div.date b{
+        width: 20px !important;
+        text-align: center !important;
+        float: left !important;
+    }
+    section.blog-details-content div.blog-details-info div.date span{
+        float: left !important;
+        width: 40px !important;
+    }
+    section.blog-details-content div.blog-details-info span.blog-by{
+        bottom: -42px !important;
+        left: 0px !important;
+        width: 100% !important;
+    }
+    section.blog-details-content div.blog-details-info div.comments-likes{
+        position: static !important;
+        margin-top: 20px !important;
+        width: 100% !important;
+    }
+    section.blog-details-content div.comments-replays span.comment-user{
+        position: static !important;
+        display: block !important;
+        margin-top: 60px !important;
+        width: 85% !important;
+        text-align: center !important;
+        margin: 60px auto 0px auto !important;
+    }
+    section.blog-details-content div.comments-replays span.comment-date{
+        position: static !important;
+        margin-top: 20px !important;
+        display: block !important;
+        width: 85% !important;
+        text-align: center !important;
+        margin: 20px auto 0px auto !important;
+    }
+    section.blog-details-content div.comments-replays p.comment-p{
+        margin-top: 20px !important;
+    }
+    /*=========================
+        End Blog derails Page
+    =========================*/
+    /*==========================
+        Start cart Page
+    ==========================*/
+    section.cart table thead{
+        font-size: 14px !important;
+        font-weight: normal !important;
+    }
+    section.cart table a{
+        font-size: 14px !important;
+    }
+    section.cart table button{
+        font-size: 14px !important;
+    }
+    /*==========================
+        End cart Page
+    ==========================*/
+}
+
+@media only screen and (max-width : 320px) {
+    /*===================
+        Start Home Page
+    =====================*/
+    div.header-top div.col-xs-3,
+    div.header-top div.col-xs-4,
+    div.header-top div.col-xs-5{
+        width: 100% !important;
+    }
+    div.header-top div.header-top-left ul li a span,
+    div.header-top div.header-top-center ul li a span,
+    div.header-top div.header-top-right ul li a span{
+        display: block !important;
+        float: right !important;
+        padding-left: 5px !important;
+    }
+    nav.navbar-inverse a.navbar-brand{
+        margin: 29px 0px 0px 20px !important;
+        width: 130px;
+    }
+    nav.navbar-inverse a.navbar-brand img{
+        max-width: 100%;
+    }
+    div.option-box{
+        top:190px;
+    }
+    .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{
+        margin-left: -10px !important;
+    }
+    div.featured-bestseller div.featured-products h2{
+        font-size: 16px !important;
+    }
+    div.featured-bestseller div.featured-products h2 span a.left span,
+    div.featured-bestseller div.featured-products h2 span a.right span{
+        width: 35px !important;
+        height: 35px !important;
+        line-height: 35px !important;
+    }
+    div.featured-bestseller div.featured-products h2 span a.left,
+    div.featured-bestseller div.featured-products h2 span a.right{
+        top: -15px !important;
+    }
+    div.featured-bestseller div.bestseller h2:after{
+        left: -200px !important;
+    }
+    div.featured-bestseller div.bestseller h2 a.left span,
+    div.featured-bestseller div.bestseller h2 a.right span,
+    div.testimonials-new div.new h2 a.left span,
+    div.testimonials-new div.new h2 a.right span,
+    div.testimonials-new div.testimonials-products h2 span a.left span,
+    div.testimonials-new div.testimonials-products h2 span a.right span{
+        width: 35px !important;
+        height: 35px !important;
+        line-height: 35px !important;
+    }
+    div.featured-bestseller div.bestseller h2:after{
+        left: -140px !important;
+    }
+    div.featured-bestseller div.bestseller h2 a.left,
+    div.featured-bestseller div.bestseller h2 a.right,
+    div.testimonials-new div.new h2 a.left,
+    div.testimonials-new div.new h2 a.right,
+    div.testimonials-new div.testimonials-products h2 span a.left,
+    div.testimonials-new div.testimonials-products h2 span a.right{
+        top: -15px !important;
+    }
+    div.testimonials-new div.new h2:after{
+        left: -140px !important;
+    }
+    div.testimonials-new div.testimonials-products div.testimonials-items div.testimonials-item div.item-info h3{
+        font-size: 14px !important;
+    }
+    div.last-blogs h2 a.left,
+    div.last-blogs h2 a.right{
+        top: -10px !important;
+    }
+    div.last-blogs h2 a.left span,
+    div.last-blogs h2 a.right span{
+        width: 35px !important;
+        text-align: center !important;
+        height: 35px !important;
+        line-height: 35px !important;
+    }
+    /*===================
+        End Home Page
+    =====================*/
+    /*===================
+        Start Shop Page
+    =====================*/
+    section.shop div.shop-content div.shop-page nav ul li a{
+        margin: 0px !important;
+    }
+    /*===================
+        End Shop Page
+    =====================*/
+    /*============================
+        Start Product details Page
+    ============================*/
+    section.product-content div.product div.product-slider div.xzoom-container div.xzoom-thumbs a img.xzoom-gallery4{
+        width: 55px !important;
+    }
+    section.product-content div.product div.product-details div.price-rate{
+        text-align: center;
+    }
+    section.product-content div.product div.product-details div.price-rate ul.rate{
+        width: 100%;
+        margin: 20px 0px;
+    }
+    section.product-content div.product div.product-details div.product-options div.product-options-choose{
+        margin: 20px 0px !important;
+    }
+    section.product-content div.product div.information-reviews{
+        margin-top: 10px;
+    }
+    section.product-content div.product div.information-reviews ul.nav-tabs li a{
+        font-size: 13px;
+    }
+    /*===================
+        Start Blog Page
+    =====================*/
+    div.blog-content div.blog-content-items div.blog-content-item a.blog-content-image div.date{
+        right: 10px !important;
+    }
+    div.blog-content div.blog-content-items div.blog-content-item div.blog-content-info h3{
+        font-size: 16px !important;
+    }
+    /*===================
+        End Blog Page
+    =====================*/
+}
